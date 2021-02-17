@@ -8,6 +8,11 @@ Ferramenta utilizada: Cypress versão 6.4.0
 URL declarada no arquivo cypress.json
 <br><br>
 
+Arquivos da pasta support:
+
+commands.js, contém os comandos/métodos utilizados pelo conjunto de testes.
+<br><br>
+
 <b>Página</b>:<br>
 - http://automationpractice.com/index.php<br><br>
 
